@@ -1,2 +1,5 @@
-# LBYARCH.rgb to grayscale
- A simple C and x86 NASM program developed for DLSU LBYARCH course (T3 2023-2024)
+# RGB to Grayscale
+A simple C and x86 NASM program that converts an RGB image (represented as a three-dimensional array of values ranging from 0-255) into its grayscale equivalent (represented as a two-dimensional array). Developed for DLSU LBYARCH course (T3 2023-2024).
+
+## Compiling the program
+Run the file `compile.bat`
