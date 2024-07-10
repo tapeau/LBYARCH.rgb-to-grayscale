@@ -3,4 +3,7 @@ A simple C and x86 NASM program that converts an RGB image (represented as a thr
 
 ## Running the program
 1. Run the file `compile.bat`
-2. Run the program EXE through command line to see the output
+2. Run the program `main.exe` through command line to see the output
+```
+.\main
+```
